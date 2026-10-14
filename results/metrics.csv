@@ -1,0 +1,5 @@
+model,MAE ($),R2
+Baseline (average price),23277,-0.0
+Linear regression,15187,0.484
+Linear regression (log price),10402,0.583
+Random forest (log price),8517,0.729
